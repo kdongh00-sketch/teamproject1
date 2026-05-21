@@ -1,10 +1,10 @@
-# 홍길동
+# 정예서
 
 ## GitHub ID
-hong123
+GomgukXD
 
 ## 팀 내 역할
-README 담당
+Reviewer
 
 ## 이번 Git 미션에서 연습하고 싶은 것
 branch를 만들고 Pull Request를 생성하는 과정을 익히고 싶다.
