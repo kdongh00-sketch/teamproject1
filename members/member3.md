@@ -1,0 +1,13 @@
+# 문재후
+
+## github ID
+psjoa
+
+## 팀 내 역할
+Reviewer
+
+## 이번 Git 미션에서 연습하고 싶은 것
+branch를 만들고 Pull Request를 생성하는 과정을 익히고 싶다.
+
+## 오늘 사용한 Git 명령어
+git clone, git pull, git checkout -b, git add, git commit, git push
