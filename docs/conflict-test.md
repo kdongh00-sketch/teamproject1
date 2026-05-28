@@ -2,4 +2,4 @@
 
 
 
-#conflict-test by jongwon#conflict-test by Yeseo(GomgukXD)
+#conflict-test by jongwon
