@@ -1,8 +1,7 @@
-\#conflict-test
+#conflict-test
+#conflict-test by donghyeuk
+#conflict-test by mingi
 
-팀명: 1조
+#conflict-test by jongwon
 
-
-
-\#conflict-test by jongwon
-
+#conflict-test by JunGi
